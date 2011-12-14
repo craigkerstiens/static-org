@@ -1,0 +1,8 @@
+venv
+bin
+build
+include
+lib
+.Python
+*.pyc
+*.db
